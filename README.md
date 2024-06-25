@@ -26,4 +26,4 @@
 - The crowdfunding database will be created using the (4) CSV files created in the first 3 parts.
 - An ERD will be created to generate a table schema for each CSV file.
   - ERD Diagram: ```crowdfunding_ERD.png```
-  - Crowdfunding database schema: ```crowdfunding_db_schema.swl```
+  - Crowdfunding database schema: ```crowdfunding_db_schema.sql```
